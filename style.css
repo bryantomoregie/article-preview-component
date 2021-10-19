@@ -83,8 +83,12 @@ section {
   align-items: center;
 }
 
-.details__icon {
+.share_icon {
   height: 20px;
   width: 20px;
   background-color: var(--light-gray-blue);
+}
+
+.img-wrapper:hover {
+  cursor: pointer;
 }
